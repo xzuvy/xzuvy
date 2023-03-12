@@ -5,7 +5,7 @@
 <div id="badges" align="center">
   <a href="https://t.me/xzuvy">
     <img src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
-    <a href="xzuvy27@gmail.com">
+    <a href="mailto:xzuvy27@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
   </a>
   </div>
