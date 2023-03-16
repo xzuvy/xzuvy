@@ -17,15 +17,7 @@
 
 - Sup, I am Peter Makarenko, iOS Developer
 - 21 y.o, from Belarus
-Since 2017 learning I have been studying programming languages.
-- 2017 - 2018:
-  C++
-- 2018 - 2020:
-  C#
-- 2021 - 2022:
-  Python
-- 2022 - now:
-  Swift
+
 
 
 ## Skills
